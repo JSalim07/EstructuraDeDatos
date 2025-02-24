@@ -1,5 +1,3 @@
 # EstructuraDeDatos
 
-[Acceder al directorio EXAMEN](https://github.com/JSalim07/EstructuraDeDatos
-/EXAMEN.md)
-
+[EXAMEN](https://github.com/JSalim07/EstructuraDeDatos/blob/main/EXAMEN.md)
