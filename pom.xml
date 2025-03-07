@@ -1,13 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  
+    <!-- Modelo de versión de POM -->
     <modelVersion>4.0.0</modelVersion>
+
+    <!-- Información del proyecto -->
     <groupId>com.justin</groupId>
     <artifactId>EstructuraDeDatos</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>23</maven.compiler.release>
-        <exec.mainClass>com.justin.estructuradedatos.EstructuraDeDatos</exec.mainClass>
-    </properties>
+
+    <!-- Nombre y descripción del proyecto -->
+    <name>EstructuraDeDatos</name>
+    <description>Proyecto de estructura de datos para el curso</description>
+
+    <!-- Repositorios y dependencias -->
+    <dependencies>
+        <!-- Puedes agregar las dependencias aquí -->
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <executions>
+                    <!-- Ejecución del primer parcial -->
+                    <execution>
+                        <id>first-partial-execution</id>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                        <configuration>
+                            <mainClass>com.justin.firstpartial.EstructuraDeDatos</mainClass>
+                        </configuration>
+                    </execution>
+
+                    <!-- Ejecución del segundo parcial -->
+                    <execution>
+                        <id>second-partial-execution</id>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                        <configuration>
+                            <mainClass>com.justin.secondpartial.SecondPartialMain</mainClass>
+                        </configuration>
+                    </execution>
+
+                    <!-- Ejecución del tercer parcial -->
+                    <execution>
+                        <id>third-partial-execution</id>
+                        <goals>
+                            <goal>exec</goal>
+                        </goals>
+                        <configuration>
+                            <mainClass>com.justin.thirdpartial.ThirdPartialMain</mainClass>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
 </project>
