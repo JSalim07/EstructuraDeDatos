@@ -1,16 +1,24 @@
-# EstructuraDeDatos
+# [EstructuraDeDatos](.src/main/java)
 
-## Parcial 1: lorem ipsum dolor sit amet
-lorem ipsum dolor sit amet
-[Parcial 1: lorem ipsum dolor sit amet](./src/main/java/firstpartial/EstructuraDeDatos.java)
 
-## Parcial 2: lorem ipsum dolor sit amet
-lorem ipsum dolor sit amet
+## [Parcial 1:](./src/main/java/firstpartial) lorem ipsum dolor sit amet
+- [EstructuraDeDatos.java](./src/main/java/firstpartial/EstructuraDeDatos.java)
 
-[Parcial 2: lorem ipsum dolor sit amet](./parcial2)
+[Examen P1](./parcial1)
 
-## Parcial 3: lorem ipsum dolor sit amet
-lorem ipsum dolor sit amet
+## [Parcial 2:](./src/main/java/secondpartial) lorem ipsum dolor sit amet
 
-[Parcial 3: lorem ipsum dolor sit amet](./parcial2)
+- [SecondPartialMain.java](.src/main/java/secondpartial/SecondPartialMain.java)
+- [SelectionSortExample.java](.src/main/java/secondpartial/SelectionSortExample.java)
+- [InsertionSortExample.java](.src/main/java/secondpartial/InsertionSortExample.java)
+- [BubbleSortExample.java](.src/main/java/secondpartial/BubbleSortExample.java)
+
+
+[Examen P2](./parcial2)
+
+## [Parcial 3:](./src/main/java/firstpartial) lorem ipsum dolor sit amet
+
+- [mainclass.java](./src/main/java/thirdpartial)
+
+[Examen P3](./parcial3)
 
