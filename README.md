@@ -18,7 +18,8 @@
 
 ## Parcial 3: lorem ipsum dolor sit amet
 
-- [mainclass.java](./SinglyLinkedList.java)
+- [SinglyLinkedList.java](./SinglyLinkedList.java)
+- [ThirdPartialMain.java](./ThirdPartialMain.java)
 
 [Examen P3](./parcial3)
 
