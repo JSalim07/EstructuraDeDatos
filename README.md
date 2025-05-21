@@ -22,4 +22,4 @@
 - [EjemploCola.java](./src/main/java/thirdpartial/EjemploCola.java)
 - [ArbolBinario.java](./src/main/java/thirdpartial/ArbolBinario.java)
 - [RedGrafo.java](./src/main/java/thirdpartial/RedGrafo.java)
-
+- [Target con Suma y Multiplicación](src/main/java/TwoSum.py)
