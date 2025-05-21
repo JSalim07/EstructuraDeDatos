@@ -1,4 +1,4 @@
-# [EstructuraDeDatos](.src/main/java)
+# [EstructuraDeDatos](src/main/java)
 
 ## Parcial 1: 
 - [EstructuraDeDatos.java](./src/main/java/firstpartial/EstructuraDeDatos.java)
