@@ -9,6 +9,7 @@ package secondpartial;
  * @author justin
  */// Clase principal
 
+/*
 public class SecondPartialMain {
     public static void main(String[] args) {
         
@@ -51,6 +52,10 @@ public class SecondPartialMain {
         for (int num : peorCasoBubble) {
             System.out.print(num + " ");
         }
+
+        LinearSerch objLinear = new LinearSearch();
+    
         System.out.println("\nOperaciones realizadas con BubbleSort: " + operacionesPeorBubble);
     }
 }
+*/
