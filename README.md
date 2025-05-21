@@ -1,4 +1,4 @@
-# [EstructuraDeDatos](src/main/java)
+# [EstructuraDeDatos](./src/main/java)
 
 ## Parcial 1: 
 - [EstructuraDeDatos.java](./src/main/java/firstpartial/EstructuraDeDatos.java)
@@ -14,12 +14,12 @@
 
 ## Parcial 3: 
 
-- [ThirdPartialMain.java](.src/main/java/thirdpartial/ThirdPartialMain.java)
-- [SinglyLinkedList.java](.src/main/java/thirdpartial/SinglyLinkedList.java)
-- [ListaDoblementeEnlazada.java](.src/main/java/thirdpartial/ListaDoblementeEnlazada.java)
-- [ListaCircular.java](.src/main/java/thirdpartial/ListaCircular.java)
-- [EjemploPila.java](.src/main/java/thirdpartial/EjemploPila.java)
-- [EjemploCola.java](.src/main/java/thirdpartial/EjemploCola.java)
-- [ArbolBinario.java](.src/main/java/thirdpartial/ArbolBinario.java)
-- [RedGrafo.java](.src/main/java/thirdpartial/RedGrafo.java)
+- [ThirdPartialMain.java](./src/main/java/thirdpartial/ThirdPartialMain.java)
+- [SinglyLinkedList.java](./src/main/java/thirdpartial/SinglyLinkedList.java)
+- [ListaDoblementeEnlazada.java](./src/main/java/thirdpartial/ListaDoblementeEnlazada.java)
+- [ListaCircular.java](./src/main/java/thirdpartial/ListaCircular.java)
+- [EjemploPila.java](./src/main/java/thirdpartial/EjemploPila.java)
+- [EjemploCola.java](./src/main/java/thirdpartial/EjemploCola.java)
+- [ArbolBinario.java](./src/main/java/thirdpartial/ArbolBinario.java)
+- [RedGrafo.java](./src/main/java/thirdpartial/RedGrafo.java)
 
