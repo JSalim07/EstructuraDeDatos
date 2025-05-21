@@ -12,8 +12,6 @@
 - [InsertionSortExample.java](./src/main/java/secondpartial/InsertionSortExample.java)
 - [BubbleSortExample.java](./src/main/java/secondpartial/BubbleSortExample.java)
 
-[Examen P2](./parcial2)
-
 ## Parcial 3: 
 
 - [ThirdPartialMain.java](.src/main/java/thirdpartial/ThirdPartialMain.java)
